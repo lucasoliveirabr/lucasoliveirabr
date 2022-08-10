@@ -8,11 +8,12 @@ I'm passionate about tecnology and videogames! I'm a beginner in the programming
 
 Also check my [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-br/).
 
-### Languages and tools I use for work
+### Hard Skills
 
 <div style="display: inline_block">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="Python">
   <p align="left">
 </div>
 
@@ -20,6 +21,8 @@ Also check my [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-br/).
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="GIT">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="HTML5">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="CSS3">
+  <img width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" alt="Linux">
 </div>
 <br>
 
