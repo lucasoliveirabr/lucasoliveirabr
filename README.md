@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveirabr&langs_count=12&layout=compact&theme=dark" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveirabr&layout=compact&theme=dark" alt="Top languages" align="right">
 
  ## 👋 Hello, I'm Lucas!
 
