@@ -2,9 +2,13 @@
 
  ## 👋 Hello, I'm Lucas!
 
-I'm 19 years old, I live in Barueri/SP and I'm studying Information Technology Management at [Fatec Barueri](https://fatecbarueri.edu.br/home/).
+### I'm
 
-I'm passionate about tecnology and videogames! I'm a beginner in the programming universe, currently focusing on Java.
+・Currently studying Information Technology Management at [Fatec Barueri](https://fatecbarueri.edu.br/home/).
+
+・Passionate about tecnology and videogames!
+
+・Beginner in the programming universe, currently focusing on Java.
 
 Also check my [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-br/).
 
