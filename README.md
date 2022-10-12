@@ -8,7 +8,7 @@
 
 ・Passionate about tecnology and videogames!
 
-・Beginner in the programming universe, currently focusing on Java.
+・An avid student of software development.
 
 Also check my [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-br/).
 
@@ -17,11 +17,11 @@ Also check my [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-br/).
 <div style="display: inline_block">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript">
-  <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="Python">
   <p align="left">
 </div>
 
 <div>
+  <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="React">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="GIT">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="HTML5">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="CSS3">
