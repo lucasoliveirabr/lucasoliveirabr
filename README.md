@@ -26,6 +26,7 @@ Also check my [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-br/).
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="HTML5">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="CSS3">
   <img width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL">
+  <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" alt="MongoDB">
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" alt="Linux">
 </div>
 <br>
