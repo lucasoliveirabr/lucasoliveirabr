@@ -1,18 +1,18 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveirabr&layout=compact&theme=dark" alt="Top languages" align="right">
 
- ## 👋 Hello, I'm Lucas!
+# 👋 Hello, I'm Lucas!
 
-### I'm
+## I'm
 
-・Currently studying Information Technology Management at [Fatec Barueri](https://fatecbarueri.edu.br/home/).
+- Currently studying Information Technology Management at [Fatec Barueri](https://fatecbarueri.edu.br/home/).
 
-・Passionate about tecnology and videogames!
+- Passionate about tecnology and videogames!
 
-・An avid student of software development.
+- An avid student of software development.
 
 Also check my [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-br/).
 
-### Hard Skills
+## Hard Skills
 
 <img src="https://skillicons.dev/icons?i=java,js,ts">
 <img src="https://skillicons.dev/icons?i=spring,react,nodejs,git,html,css,mysql,mongodb,linux">
