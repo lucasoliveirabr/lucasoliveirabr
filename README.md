@@ -17,4 +17,4 @@ Also check my [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-br/).
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma">
 <img src="https://skillicons.dev/icons?i=git,androidstudio,postman,linux,docker">
 
-<img src= "https://64.media.tumblr.com/2c551700bc0501aaca64fc6316abe140/a15a1cf8a4616f2a-ca/s640x960/2bd714f3d123bd4b2030bdf9a0f24ee8e55d3d99.gifv" width="500px" align="center">
+<img src= "https://64.media.tumblr.com/2c551700bc0501aaca64fc6316abe140/a15a1cf8a4616f2a-ca/s400x600/05ccb753a73f4158abc271f4d7d24d141619ddbd.gifv" width="500px" align="center">
