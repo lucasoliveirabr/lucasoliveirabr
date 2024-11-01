@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Lucas!
 
-As a Software Developer, I have worked on commercial projects focused on the areas of e-commerce and bot automation.
+As a Full Stack Developer, I have worked on commercial projects focused on the areas of e-commerce and bot automation.
 
 I have a higher education degree in Information Technology Management and the knowledge gained during it has been enriching, often making me come up with ideas for innovative implementations in everyday life.
 
@@ -12,7 +12,9 @@ Also check my [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-br/).
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,spring,react,next,tailwind,nodejs">
-<img src="https://skillicons.dev/icons?i=git,mysql,mongodb,androidstudio,postman,linux,docker">
+<img src="https://skillicons.dev/icons?i=java,js,ts">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,react,vite,next,tailwind">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma">
+<img src="https://skillicons.dev/icons?i=git,androidstudio,postman,linux,docker">
 
-<img src= "https://64.media.tumblr.com/2c551700bc0501aaca64fc6316abe140/a15a1cf8a4616f2a-ca/s400x600/05ccb753a73f4158abc271f4d7d24d141619ddbd.gifv" width="500px" align="center">
+<img src= "https://64.media.tumblr.com/2c551700bc0501aaca64fc6316abe140/a15a1cf8a4616f2a-ca/s640x960/2bd714f3d123bd4b2030bdf9a0f24ee8e55d3d99.gifv" width="500px" align="center">
