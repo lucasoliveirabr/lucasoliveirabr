@@ -2,11 +2,11 @@
 
 # 👋 Hello, I'm Lucas!
 
-As a Full Stack Developer, I have worked on commercial projects focused on the areas of e-commerce and bot automation.
+Full Stack Developer with experience in systems automation and commercial projects focused on the financial and e-commerce areas, with robust skills in technologies such as JavaScript, TypeScript, React and Node.js to work from the conception to the implementation of efficient and scalable solutions, always focused on optimizing processes and enhancing results.
 
-I have a higher education degree in Information Technology Management and the knowledge gained during it has been enriching, often making me come up with ideas for innovative implementations in everyday life.
+I have an academic background in Information Technology Management, as well as relevant courses and certifications on platforms such as Cisco, AWS and Bradesco Foundation.
 
-I am always looking for new challenges so that I can continue to progress in my career as an excellent professional.
+I am always looking for new challenges so that I can continue to progress in my career as a software engineer.
 
 Also check my [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-br/).
 
